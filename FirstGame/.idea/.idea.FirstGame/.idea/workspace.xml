@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7b7af77-a9a1-47d7-820c-c510eec9953e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ArraysAndLoops.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArraysAndLoops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+              <folding>
+                <marker date="1518546534724" expanded="false" signature="6:78" ph="..." />
+                <marker date="1518546534724" expanded="true" signature="123:471" ph="{...}" />
+                <marker date="1518546534724" expanded="true" signature="249:468" ph="{...}" />
+                <marker date="1518546534724" expanded="true" signature="286:369" ph="{...}" />
+                <marker date="1518546534724" expanded="true" signature="406:464" ph="{...}" />
+                <marker date="1518546534724" expanded="true" signature="432:460" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListsAndLoops.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <marker date="1518718562318" expanded="true" signature="6:100" ph="..." />
+                <marker date="1518718562318" expanded="true" signature="144:296" ph="{...}" />
+                <marker date="1518718562318" expanded="true" signature="239:294" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheInreadibles.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TheInreadibles.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1518718222329" expanded="true" signature="6:78" ph="..." />
+                <marker date="1518718222329" expanded="true" signature="144:183" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1518545172560" expanded="false" signature="6:78" ph="..." />
+                <marker date="1518545172560" expanded="true" signature="136:203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TheInreadibles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArraysAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/IfElse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Door.cs" />
+        <option value="$PROJECT_DIR$/Assets/AmmoPowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/CharacterBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LogicOperators.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickPowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JumpSide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathOperators.cs" />
+        <option value="$PROJECT_DIR$/Assets/PowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/ClickPowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArraysAndLoops.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TheInreadibles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="10" />
+    <option name="width" value="1669" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstGame (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b7af77-a9a1-47d7-820c-c510eec9953e" name="Default" comment="" />
+      <created>1517505669356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517505669356</updated>
+      <workItem from="1517505673331" duration="70000" />
+      <workItem from="1517505773715" duration="999000" />
+      <workItem from="1517506864910" duration="2679000" />
+      <workItem from="1517609863148" duration="2018000" />
+      <workItem from="1517870600024" duration="779000" />
+      <workItem from="1517937168507" duration="4187000" />
+      <workItem from="1518043125643" duration="1532000" />
+      <workItem from="1518109704992" duration="2611000" />
+      <workItem from="1518112356164" duration="34000" />
+      <workItem from="1518112424029" duration="1335000" />
+      <workItem from="1518542601379" duration="4084000" />
+      <workItem from="1518716542389" duration="2076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22404000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="10" width="1669" height="994" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0737798" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16515426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ClickPowerUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1518545172560" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518545172560" expanded="true" signature="136:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArraysAndLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <marker date="1518546534724" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518546534724" expanded="true" signature="123:471" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="249:468" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="286:369" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="406:464" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="432:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ClickPowerUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LogicOperators.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/JumpSide.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClickPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LogicOperators.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClickPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AmmoPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterMover.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/IfElse.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AmmoPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/IfElse.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/IfElse.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/IfElse.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/IfElse.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Door.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AmmoPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterMover.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LogicOperators.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClickPowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/JumpSide.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MathOperators.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PowerUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ClickPowerUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Player.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ArraysAndLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding>
+            <marker date="1518546534724" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518546534724" expanded="true" signature="123:471" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="249:468" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="286:369" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="406:464" ph="{...}" />
+            <marker date="1518546534724" expanded="true" signature="432:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1518545172560" expanded="false" signature="6:78" ph="..." />
+            <marker date="1518545172560" expanded="true" signature="136:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TheInreadibles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1518718222329" expanded="true" signature="6:78" ph="..." />
+            <marker date="1518718222329" expanded="true" signature="144:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <marker date="1518718562318" expanded="true" signature="6:100" ph="..." />
+            <marker date="1518718562318" expanded="true" signature="144:296" ph="{...}" />
+            <marker date="1518718562318" expanded="true" signature="239:294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
