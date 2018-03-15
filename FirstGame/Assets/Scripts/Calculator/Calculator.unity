@@ -524,13 +524,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 942655408}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6933e56dc31e557488887a43b851bfb7, type: 3}
+  m_Script: {fileID: 11500000, guid: aa9fbc173b9b90f4ba6aa1847dca8c54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Input1: {fileID: 1793906316}
   Input2: {fileID: 1456522877}
   SolutionText: {fileID: 1245660691}
-  Calculation: {fileID: 11400000, guid: 8ac48743a5182c042810fdb9dd99a070, type: 2}
 --- !u!114 &942655411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -572,13 +571,13 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 942655410}
         m_MethodName: RunCalculation
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: +
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -813,13 +812,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1171489426}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6933e56dc31e557488887a43b851bfb7, type: 3}
+  m_Script: {fileID: 11500000, guid: aa9fbc173b9b90f4ba6aa1847dca8c54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Input1: {fileID: 1793906316}
   Input2: {fileID: 1456522877}
   SolutionText: {fileID: 1245660691}
-  Calculation: {fileID: 11400000, guid: 1dc7d59d9b693f84c92cc23538388ffc, type: 2}
 --- !u!114 &1171489429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -861,13 +859,13 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1171489428}
         m_MethodName: RunCalculation
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: '*'
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -1233,13 +1231,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1485242327}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6933e56dc31e557488887a43b851bfb7, type: 3}
+  m_Script: {fileID: 11500000, guid: aa9fbc173b9b90f4ba6aa1847dca8c54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Input1: {fileID: 1793906316}
   Input2: {fileID: 1456522877}
   SolutionText: {fileID: 1245660691}
-  Calculation: {fileID: 11400000, guid: 4a9b6e64825cbb642afa22e76a8030fd, type: 2}
 --- !u!114 &1485242330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1281,13 +1278,13 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1485242329}
         m_MethodName: RunCalculation
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: /
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -1753,13 +1750,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1868640289}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6933e56dc31e557488887a43b851bfb7, type: 3}
+  m_Script: {fileID: 11500000, guid: aa9fbc173b9b90f4ba6aa1847dca8c54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Input1: {fileID: 1793906316}
   Input2: {fileID: 1456522877}
   SolutionText: {fileID: 1245660691}
-  Calculation: {fileID: 11400000, guid: 5fa958510ea757d45929b14cef9391e4, type: 2}
 --- !u!114 &1868640292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1801,13 +1797,13 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1868640291}
         m_MethodName: RunCalculation
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: '-'
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,

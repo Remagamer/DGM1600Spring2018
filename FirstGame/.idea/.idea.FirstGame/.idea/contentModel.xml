@@ -25,7 +25,9 @@
             <e p="CalculateBehaviour.cs" t="Include" />
             <e p="Calculation.cs" t="Include" />
             <e p="Divide.cs" t="Include" />
+            <e p="LongCalculator.cs" t="Include" />
             <e p="Multiply.cs" t="Include" />
+            <e p="Silly.cs" t="Include" />
             <e p="Subtract.cs" t="Include" />
           </e>
           <e p="Functions" t="Include">

@@ -5,9 +5,8 @@ using UnityEngine.Assertions.Comparers;
 
 [CreateAssetMenu]
 public class Multiply : Calculation {
-	public override float FinishCalculation()
+	public override string FinishCalculation()
 	{
-		return aNum * bNum;
+		return (aNum * bNum).ToString();
 	}
-	
 }
