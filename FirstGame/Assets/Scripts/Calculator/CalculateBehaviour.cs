@@ -13,6 +13,6 @@ public class CalculateBehaviour : MonoBehaviour
 
 	public void RunCalculation()
 	{
-		SolutionText.text = Calculation.Calculate(Input1.text, Input2.text).ToString();
+		SolutionText.text = Calculation.Calculate(Input1.text, Input2.text);
 	}
 }

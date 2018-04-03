@@ -1,16 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Xml.Schema;
 using UnityEngine;
 
-[CreateAssetMenu]
-public class Calculation : ScriptableObject {
-
-
-	public int Calculate(string a, string b)
+public abstract class Calculation : ScriptableObject
+{
+	protected float aNum;
+	protected float bNum;
+	
+	public string Calculate(string a, string b)
 	{
-		int aNum = int.Parse(a);
-		int bNum = int.Parse(b);
-		
-		return aNum + bNum;
+		aNum = float.Parse(a);
+		bNum = float.Parse(b);
+		return FinishCalculation();
 	}
+
+	public abstract string FinishCalculation();
+
 }
