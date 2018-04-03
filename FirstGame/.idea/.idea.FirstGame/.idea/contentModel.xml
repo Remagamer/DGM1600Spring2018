@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10536064\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_FirstGame.-1155259188.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10536064\Documents\GitRepos\DGM1600Spring2018\FirstGame" t="IncludeRecursive">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -55,11 +54,14 @@
             <e p="Subtract.cs" t="Include" />
           </e>
           <e p="CharacterController" t="Include">
+            <e p="BoolInputBase.cs" t="Include" />
             <e p="FloatConstant.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
             <e p="InputBase.cs" t="Include" />
+            <e p="JumpInput.cs" t="Include" />
             <e p="MoveCharacter.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
+            <e p="MovePatternBase.cs" t="Include" />
           </e>
           <e p="Functions" t="Include">
             <e p="FunctionsWithReturns.cs" t="Include" />
@@ -165,5 +167,6 @@
         <e p="bin" t="ExcludeRecursive" />
       </e>
     </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_FirstGame.1054668400.00" t="ExcludeRecursive" />
   </component>
 </project>
