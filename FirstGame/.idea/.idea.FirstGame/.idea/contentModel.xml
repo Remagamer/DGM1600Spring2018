@@ -54,11 +54,11 @@
             <e p="Subtract.cs" t="Include" />
           </e>
           <e p="CharacterController" t="Include">
-            <e p="BoolInputBase.cs" t="Include" />
+            <e p="BoolInput.cs" t="Include" />
+            <e p="CharacterMove.cs" t="Include" />
             <e p="FloatConstant.cs" t="Include" />
             <e p="FloatInput.cs" t="Include" />
             <e p="InputBase.cs" t="Include" />
-            <e p="JumpInput.cs" t="Include" />
             <e p="MoveCharacter.cs" t="Include" />
             <e p="MovePattern.cs" t="Include" />
             <e p="MovePatternBase.cs" t="Include" />

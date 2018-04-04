@@ -11,4 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7c0de355e78946e897b2064f850bcef, type: 3}
   m_Name: JumpInput
   m_EditorClassIdentifier: 
+  InputName: Jump
   FloatValue: 8

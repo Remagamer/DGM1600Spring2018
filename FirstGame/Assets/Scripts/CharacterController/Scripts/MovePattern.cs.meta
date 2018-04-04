@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6fd822570a7e8b6498ee7d6aa0ab2ade
+timeCreated: 1522792251
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InputX: {instanceID: 0}
+  - InputY: {instanceID: 0}
+  - InputZ: {instanceID: 0}
+  - InputRotateX: {instanceID: 0}
+  - InputRotateY: {instanceID: 0}
+  - InputRotateZ: {instanceID: 0}
+  - JumpInput: {fileID: 11400000, guid: a23ec16ad29554286a1cdf4d9b070a4f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
