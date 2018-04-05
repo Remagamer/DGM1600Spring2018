@@ -7,3 +7,6 @@
 [submodule "FirstGame/Assets/Scripts/Character-Scripts"]
 	path = FirstGame/Assets/Scripts/Character-Scripts
 	url = https://github.com/anthonyromrell/Character-Scripts.git
+[submodule "FirstGame/Assets/Scripts/Generics"]
+	path = FirstGame/Assets/Scripts/Generics
+	url = https://github.com/anthonyromrell/Generics.git
