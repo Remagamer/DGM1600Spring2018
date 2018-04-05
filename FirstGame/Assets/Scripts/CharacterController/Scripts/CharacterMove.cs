@@ -2,26 +2,28 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "MovePattern")]
-public class MovePattern : ScriptableObject {
-
+//Made By Anthony Romrell
+public class CharacterMove : MonoBehaviour 
+{
 	public float speed = 6.0F;
 	public float jumpSpeed = 8.0F;
 	public float gravity = 20.0F;
-	private Vector3 moveDirection = Vector3.zero;
+	private Vector3 moveDirection;
+	private Vector3 rotateDirection;
 
-	public InputBase InputX;
-	public InputBase InputY;
-	public InputBase InputZ;
-		
-	public void Move(CharacterController controller, Transform transform)
+	private CharacterController controller;
+
+	private void Start()
 	{
+		controller = GetComponent<CharacterController>();
+	}
+
+	void Update() {
 		if (controller.isGrounded)
 		{
-			moveDirection.x = InputX.SetFloat();
-			moveDirection.y = InputY.SetFloat();
-			moveDirection.z = InputZ.SetFloat();
-			
+			//rotateDirection.y = Input.GetAxis("Horizontal");
+			transform.Rotate(rotateDirection);
+			moveDirection.Set(Input.GetAxis("Horizontal"), 0, 0);
 			moveDirection = transform.TransformDirection(moveDirection);
 			moveDirection *= speed;
 			if (Input.GetButton("Jump"))

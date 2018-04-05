@@ -8,9 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6fd822570a7e8b6498ee7d6aa0ab2ade, type: 3}
-  m_Name: FastMovePattern
+  m_Script: {fileID: 11500000, guid: fcb4661bea80ecd47b7ac4dc745330dd, type: 3}
+  m_Name: Death
   m_EditorClassIdentifier: 
-  speed: 30
-  jumpSpeed: 8
-  gravity: 20
+  PowerLevel: 0
+  MovePatternTransfer: {fileID: 11400000, guid: e9d7ba6386e956d428168132a0b8aece,
+    type: 2}
