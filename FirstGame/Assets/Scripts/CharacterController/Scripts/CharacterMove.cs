@@ -21,9 +21,9 @@ public class CharacterMove : MonoBehaviour
 	void Update() {
 		if (controller.isGrounded)
 		{
-			rotateDirection.y = Input.GetAxis("Horizontal");
+			//rotateDirection.y = Input.GetAxis("Horizontal");
 			transform.Rotate(rotateDirection);
-			moveDirection.Set(0, 0, Input.GetAxis("Vertical"));
+			moveDirection.Set(Input.GetAxis("Horizontal"), 0, 0);
 			moveDirection = transform.TransformDirection(moveDirection);
 			moveDirection *= speed;
 			if (Input.GetButton("Jump"))

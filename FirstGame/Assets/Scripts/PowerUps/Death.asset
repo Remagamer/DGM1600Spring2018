@@ -8,8 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e7c0de355e78946e897b2064f850bcef, type: 3}
-  m_Name: JumpInput2
+  m_Script: {fileID: 11500000, guid: fcb4661bea80ecd47b7ac4dc745330dd, type: 3}
+  m_Name: Death
   m_EditorClassIdentifier: 
-  InputName: Jump
-  FloatValue: 8
+  PowerLevel: 0
+  MovePatternTransfer: {fileID: 11400000, guid: e9d7ba6386e956d428168132a0b8aece,
+    type: 2}
