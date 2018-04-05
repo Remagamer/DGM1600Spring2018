@@ -1,3 +1,9 @@
 [submodule "FirstGame/Assets/Scripts/unite2017"]
 	path = FirstGame/Assets/Scripts/unite2017
 	url = https://github.com/anthonyromrell/Unite2017.git
+[submodule "FirstGame/Assets/Scripts/AI"]
+	path = FirstGame/Assets/Scripts/AI
+	url = https://github.com/anthonyromrell/AI.git
+[submodule "FirstGame/Assets/Scripts/Character-Scripts"]
+	path = FirstGame/Assets/Scripts/Character-Scripts
+	url = https://github.com/anthonyromrell/Character-Scripts.git
